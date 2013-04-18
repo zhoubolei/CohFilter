@@ -1,5 +1,5 @@
-Demo package of Coherent Filtering. 
-Ver 1.0
+Demo Codes of Coherent Filtering. 
+Ver 2.0
 
 1, demo_toyData.m
 Coherent motion detection for synthetic data
@@ -14,4 +14,4 @@ Feel free to contact me if you have any questions.
 
 Bolei
 The Chinese University of Hong Kong
-July 30,2012
+April 18,2013
